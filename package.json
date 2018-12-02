@@ -1,0 +1,14 @@
+{
+  "name": "best-ever-colors",
+  "version": "1.0.0",
+  "description": "let's see best ever colors!:)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luckinamargo",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}

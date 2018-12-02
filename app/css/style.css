@@ -1,0 +1,30 @@
+body {
+	background: deepskyblue;
+}
+
+.list {
+	border: 5px solid gold;
+	width: 250px;
+	color: white;
+	text-align: center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 25px;
+	line-height: 1.5;
+	padding: 15px;
+	list-style-type: none;
+	margin: 10px auto 0;
+}
+
+h1 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 45px;
+	text-align: center;
+}
+
+.deeppink {
+	color: deeppink;
+}
+
+.yellow {
+	color: yellow;
+}
