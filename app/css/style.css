@@ -52,3 +52,13 @@ input {
 .crimson{
 	color: crimson;
 }
+
+.error { 
+	color: red;
+	font-size: 20px;
+	border: 5px solid orange;
+	padding: 15px;
+	margin: 0 auto;
+	text-align: center;
+	width: 350px;
+}
