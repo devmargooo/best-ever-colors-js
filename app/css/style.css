@@ -1,5 +1,6 @@
 body {
 	background: deepskyblue;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .list {
@@ -7,7 +8,6 @@ body {
 	width: 250px;
 	color: white;
 	text-align: center;
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 25px;
 	line-height: 1.5;
 	padding: 15px;
@@ -15,10 +15,30 @@ body {
 	margin: 10px auto 0;
 }
 
+.add-color-wrapper {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.add-color-text {
+	font-weight: 700;
+	font-size: 19px;
+}
+
 h1 {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-size: 45px;
 	text-align: center;
+}
+
+input {
+	width: 200px;
+	height: 26px;
+	padding-left: 10px;
+	color: limegreen;
+	border-radius: 10px;
+	border: none;
+	font-size: 16px;
+	font-weight: bold;
 }
 
 .deeppink {
@@ -27,4 +47,8 @@ h1 {
 
 .yellow {
 	color: yellow;
+}
+
+.crimson{
+	color: crimson;
 }
